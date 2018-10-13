@@ -281,7 +281,7 @@ void Begin39(double a, double b, double c)
     }
     else
     {
-        cout<<"Begin 39 - D<0"<<endl;
+        cout<<"Begin 39 - D < 0"<<endl;
     }
 }
 
@@ -296,7 +296,7 @@ void Begin40(double a, double b, double c, double a1, double b1, double c1)
     }
     else
     {
-        cout<<"Begin 40 - D<0"<<endl;
+        cout<<"Begin 40 - D < 0"<<endl;
     }
 }
 int main()
